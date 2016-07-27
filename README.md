@@ -2,6 +2,7 @@
 A platform game made in Löve2D (LUA) which is still in progress.
 
 ![alt tag](http://photon.one/img/game_screen.PNG)
+[![Alpha Video](http://img.youtube.com/vi/NZLpvEuSbNA/0.jpg)](http://www.youtube.com/watch?v=NZLpvEuSbNA)
 
 You can freely copy and modify the game source code.
 
